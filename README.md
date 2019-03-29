@@ -2,9 +2,6 @@
 Fsociety Hacking Tools Pack
 A Penetration Testing Framework, you will have every script that a hacker needs
 
-Fsociety Contains All Tools Used in Mr. Robot Series
-alt tag
-
 Menu
 Information Gathering
 Password Attacks
@@ -75,63 +72,3 @@ Post Exploitation:
 Shell Checker
 POET
 Weeman
-Installation
-Installation Linux alt tag
-bash <(wget -qO- https://git.io/vAtmB)
-Follow This Video HackerSploit
-
-Installation
-Download Termux
-
-bash <(wget -qO- https://git.io/vAtmB)
-Follow This Video Arif - Tech
-
-Installation Windowsalt tag
-Download Linux Bash Like Cygwin
-
-Download Python
-
-Use Google Cloud Console Cloud Shell
-
-Or Use Free Ubuntu VPS c9.io
-
-Docker Usage docker logo
-Dependecies
-Docker
-
-Docker-compose
-
-docker-compose build
-docker-compose up -d
-docker-compose exec fsociety fsociety
-docker-compose down # destroys instance
-Visit Our Social Network 😘
-Fsociety.host
-
-Screenshots
-asciicast
-
-alt logo
-
-Contributors
-alexcreek
-
-mswell
-
-Ev3
-
-huangsam
-
-RyanFilho
-
-gabru-md
-
-jdrago999
-
-License
-MIT Licence
-
-Join the team
-Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
-
-Donate
